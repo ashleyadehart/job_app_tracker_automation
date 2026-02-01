@@ -21,7 +21,8 @@ The tool is designed to be run from the command line and produces clean, shareab
 - Modular, reusable Python codebase
 
 ## Project Structure
-`job-app-tracker-automation/
+```
+job-app-tracker-automation/
 ├─ data/
 │  └─ applications.csv          # Sample (anonymized) input data
 ├─ outputs/
@@ -40,7 +41,8 @@ The tool is designed to be run from the command line and produces clean, shareab
 ├─ tests/
 │  └─ (unit tests)
 ├─ requirements.txt
-└─ README.md`
+└─ README.md
+```
 
 ---
 
