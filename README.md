@@ -65,10 +65,6 @@ job-app-tracker-automation/
 ### Create and activate a virtual environment
 - python -m venv .venv
 - .\.venv\Scripts\Activate.ps1
-### Install the Dependencies 
-This project uses a Python virtual environment to isolate dependencies.
-- python -m venv .venv
-- .\.venv\Scripts\Activate.ps1
 ### Install required packages
 - python -m pip install -r requirements.txt
 
