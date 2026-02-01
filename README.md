@@ -68,7 +68,8 @@ python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 ```
 ### Install required packages
-```python -m pip install -r requirements.txt
+```
+python -m pip install -r requirements.txt
 ```
 
 ---
