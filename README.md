@@ -21,6 +21,7 @@ The tool is designed to be run from the command line and produces clean, shareab
 - Modular, reusable Python codebase
 
 ## Project Structure
+`
 job-app-tracker-automation/
 ├─ data/
 │  └─ applications.csv          # Sample (anonymized) input data
@@ -61,14 +62,14 @@ job-app-tracker-automation/
 
 ## How to Run
 ### Create and activate a virtual environment
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
+- python -m venv .venv
+- .\.venv\Scripts\Activate.ps1
 ### Install the Dependencies 
 This project uses a Python virtual environment to isolate dependencies.
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
+- python -m venv .venv
+- .\.venv\Scripts\Activate.ps1
 ### Install required packages
-python -m pip install -r requirements.txt
+- python -m pip install -r requirements.txt
 
 ---
 
