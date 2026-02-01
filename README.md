@@ -6,8 +6,6 @@ It automates data cleaning, validation, rule-based flagging, and report generati
 
 The tool is designed to be run from the command line and produces clean, shareable outputs that summarize application status, follow-up needs, and stale applications.
 
----
-
 ## Features
 - Command-line interface (CLI) using `argparse`
 - Automated data cleaning and normalization
@@ -22,10 +20,7 @@ The tool is designed to be run from the command line and produces clean, shareab
 - Structured logging for traceability and debugging
 - Modular, reusable Python codebase
 
----
-
 ## Project Structure
-```text
 job-app-tracker-automation/
 ├─ data/
 │  └─ applications.csv          # Sample (anonymized) input data
@@ -50,8 +45,6 @@ job-app-tracker-automation/
 ---
 
 ## How It Works
-```markdown
-## How It Works
 1. Reads a CSV file of job applications.
 2. Standardizes column structure and cleans text fields.
 3. Parses dates into a consistent ISO format.
@@ -67,27 +60,20 @@ job-app-tracker-automation/
 ---
 
 ## How to Run
-### 1. Create and activate a virtual environment
-```powershell
+### Create and activate a virtual environment
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
-
----
-
-## Install the Dependencies
+### Install the Dependencies 
 This project uses a Python virtual environment to isolate dependencies.
-### 1. From the project root:
-```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
-### 2. Install required packages
+### Install required packages
 python -m pip install -r requirements.txt
 
 ---
 
 ## Run the Automation
 Once dependencies are installed and the virtual environment is active, run the automation from the project root:
-```powershell
 python -m src.job_tracker --input data/applications.csv --output outputs
 
 ---
