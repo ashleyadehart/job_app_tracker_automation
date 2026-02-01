@@ -1,0 +1,7 @@
+2026-01-31 23:09:39,490 | INFO | Loading input CSV: data\applications.csv
+2026-01-31 23:09:39,497 | INFO | Cleaning/standardizing fields...
+2026-01-31 23:09:39,548 | INFO | Applying rules & flags...
+2026-01-31 23:09:39,566 | INFO | Saving cleaned CSV: outputs\cleaned_applications.csv
+2026-01-31 23:09:39,601 | INFO | Writing summary report: outputs\summary.md
+2026-01-31 23:09:39,618 | INFO | Writing dashboard JSON: outputs\dashboard.json
+2026-01-31 23:09:39,626 | INFO | Done. Outputs saved to: C:\Users\itsas\job_app_tracker_automation\outputs

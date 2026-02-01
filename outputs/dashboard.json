@@ -1,0 +1,12 @@
+{
+  "total": 7,
+  "status_counts": {
+    "Applied": 4,
+    "Interviewing": 2,
+    "Rejected": 1
+  },
+  "followup_due_count": 6,
+  "stale_count": 3,
+  "missing_link_count": 1,
+  "missing_contact_count": 5
+}

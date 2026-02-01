@@ -1,0 +1,8 @@
+company,role,location,applied_date,status,last_contact_date,contact_name,contact_email,job_posting_url,notes
+Northwind Analytics,Data Analyst,Remote,2026-01-12,Applied,2026-01-12,,,https://example.com/job/da-101,Submitted via company portal
+Blue Ridge Systems,Junior Data Analyst,Hybrid,2026-01-05,Interviewing,2026-01-18,Jordan Lee,jlee@blueridgesys.com,https://example.com/job/jda-204,Completed phone screen
+Summit Solutions,Reporting Specialist,Remote,2025-12-28,Applied,2025-12-28,,,https://example.com/job/rs-330,Waiting for response
+Cedar Tech Group,Data Coordinator,On-site,2026-01-02,Applied,2026-01-02,,,,No recruiter listed
+Atlas Consulting,Data Analyst I,Remote,2025-12-20,Interviewing,2026-01-03,Alex Morgan,alex.morgan@atlasco.com,https://example.com/job/da-118,Second interview scheduled
+Ironclad Industries,Business Intelligence Assistant,Hybrid,2025-12-15,Rejected,2025-12-29,,,https://example.com/job/bi-441,Position filled
+Pinecone Labs,Analytics Intern,Remote,2026-01-15,Applied,2026-01-15,,,https://example.com/job/ai-902,Entry-level role
