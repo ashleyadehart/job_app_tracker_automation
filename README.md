@@ -76,7 +76,9 @@ python -m pip install -r requirements.txt
 
 ## Run the Automation
 Once dependencies are installed and the virtual environment is active, run the automation from the project root:
+```
 python -m src.job_tracker --input data/applications.csv --output outputs
+```
 
 ---
 
